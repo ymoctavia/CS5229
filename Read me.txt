@@ -1,0 +1,16 @@
+final output files for all tasks are in :
+
+Elementary Part: 
+Task 1 : \task_1_output\ASPATH_TASK_1_OUT
+Task 2 : \task_2_output\ASPATH_TASK_2_OUT
+
+Intermediate Part:
+
+Task 3 : \task_3_output\ASPATH_TASK_3_OUT
+Task 4 : \task_4_output\ASPATH_TASK_4_OUT
+
+Advance Part: 
+
+advance\advance_final_output\01_FINAL_OUT   (year 2001)
+advance\advance_final_output\06_FINAL_OUT   (year 2006)
+advance\advance_final_output\11_FINAL_OUT   (year 2011)

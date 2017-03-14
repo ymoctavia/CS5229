@@ -1,0 +1,25 @@
+On Tembusu:
+Task1: java Task1 ~/cs5229/task_1_input/ASPATH_COMBINED ~/cs5229/task_1_output/ASPATH_TASK_1_OUT
+Task2: java Task2 ~/cs5229/task_2_input/ASPATH_TASK_1_OUT ~/cs5229/task_2_output/ASPATH_TASK_2_OUT
+Task3: java Task3 1 60 ~/cs5229/task_3_input/ASPATH_TASK_1_OUT ~/cs5229/task_3_output/ASPATH_TASK_3_OUT
+Task4: java Task4 ~/cs5229/test3Out ~/cs5229/test4Out
+       java Task4 ~/cs5229/task_4_input/ASPATH_TASK_3_OUT ~/cs5229/task_4_output/ASPATH_TASK_4_OUT
+
+Advance_task_1:
+	java Task1 ~/cs5229/advance/advance_task_1_input/01_ASPATH ~/cs5229/advance/advance_task_1_output/01_TASK_1_OUT
+	java Task1 ~/cs5229/advance/advance_task_1_input/06_ASPATH ~/cs5229/advance/advance_task_1_output/06_TASK_1_OUT
+	java Task1 ~/cs5229/advance/advance_task_1_input/11_ASPATH ~/cs5229/advance/advance_task_1_output/11_TASK_1_OUT
+
+Advance_task_3:
+	java Task3 1 60 ~/cs5229/advance/advance_task_3_input/01_TASK_1_OUT ~/cs5229/advance/advance_task_3_output/01_TASK_3_OUT
+	java Task3 1 60 ~/cs5229/advance/advance_task_3_input/06_TASK_1_OUT ~/cs5229/advance/advance_task_3_output/06_TASK_3_OUT
+	java Task3 1 60 ~/cs5229/advance/advance_task_3_input/11_TASK_1_OUT ~/cs5229/advance/advance_task_3_output/11_TASK_3_OUT
+Advance_task_4:
+	java Task4 ~/cs5229/advance/advance_task_4_input/01_TASK_3_OUT ~/cs5229/advance/advance_task_4_output/01_TASK_4_OUT
+	java Task4 ~/cs5229/advance/advance_task_4_input/06_TASK_3_OUT ~/cs5229/advance/advance_task_4_output/06_TASK_4_OUT
+	java Task4 ~/cs5229/advance/advance_task_4_input/11_TASK_3_OUT ~/cs5229/advance/advance_task_4_output/11_TASK_4_OUT
+Advance_final:
+java Advance ~/cs5229/advance/advance_final_input/01_TASK_1_OUT ~/cs5229/advance/advance_final_input/01_TASK_3_OUT ~/cs5229/advance/advance_final_input/01_TASK_4_OUT ~/cs5229/advance/advance_final_output/01_FINAL_OUT	
+java Advance ~/cs5229/advance/advance_final_input/06_TASK_1_OUT ~/cs5229/advance/advance_final_input/06_TASK_3_OUT ~/cs5229/advance/advance_final_input/06_TASK_4_OUT ~/cs5229/advance/advance_final_output/06_FINAL_OUT	
+java Advance ~/cs5229/advance/advance_final_input/11_TASK_1_OUT ~/cs5229/advance/advance_final_input/11_TASK_3_OUT ~/cs5229/advance/advance_final_input/11_TASK_4_OUT ~/cs5229/advance/advance_final_output/11_FINAL_OUT	
+
